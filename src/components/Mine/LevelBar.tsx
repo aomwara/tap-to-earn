@@ -1,9 +1,9 @@
-import { ArrowUpCircleOutline, StatsChartOutline } from "react-ionicons";
+// import { ArrowUpCircleOutline, StatsChartOutline } from "react-ionicons";
 
 const LevelBar = () => {
 	return (
 		<div className="w-full flex items-center justify-between">
-			<div className="flex items-center gap-2">
+			{/* <div className="flex items-center gap-2">
 				<ArrowUpCircleOutline
 					cssClasses={"!text-green-500"}
 					width={"32px"}
@@ -24,7 +24,7 @@ const LevelBar = () => {
 					<span className="text-[13px] text-[#9fa0a7]">+23%</span>
 					<span>19,200</span>
 				</div>
-			</div>
+			</div> */}
 		</div>
 	);
 };

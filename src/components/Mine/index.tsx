@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { useEffect, useState } from "react";
-import coin from "../../assets/images/coin.webp";
+import coin from "../../assets/images/coin.png";
 import LevelBar from "./LevelBar";
 import StatusBar from "./StatusBar";
 
